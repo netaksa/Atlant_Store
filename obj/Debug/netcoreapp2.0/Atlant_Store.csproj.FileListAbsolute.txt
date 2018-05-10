@@ -1,0 +1,13 @@
+C:\Users\CIO\Desktop\Atlant_Store\bin\Debug\netcoreapp2.0\app.db
+C:\Users\CIO\Desktop\Atlant_Store\bin\Debug\netcoreapp2.0\Atlant_Store.deps.json
+C:\Users\CIO\Desktop\Atlant_Store\bin\Debug\netcoreapp2.0\Atlant_Store.runtimeconfig.json
+C:\Users\CIO\Desktop\Atlant_Store\bin\Debug\netcoreapp2.0\Atlant_Store.runtimeconfig.dev.json
+C:\Users\CIO\Desktop\Atlant_Store\bin\Debug\netcoreapp2.0\Atlant_Store.dll
+C:\Users\CIO\Desktop\Atlant_Store\bin\Debug\netcoreapp2.0\Atlant_Store.pdb
+C:\Users\CIO\Desktop\Atlant_Store\obj\Debug\netcoreapp2.0\Atlant_Store.csprojAssemblyReference.cache
+C:\Users\CIO\Desktop\Atlant_Store\obj\Debug\netcoreapp2.0\Atlant_Store.csproj.CoreCompileInputs.cache
+C:\Users\CIO\Desktop\Atlant_Store\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\CIO\Desktop\Atlant_Store\obj\Debug\netcoreapp2.0\Atlant_Store.AssemblyInfoInputs.cache
+C:\Users\CIO\Desktop\Atlant_Store\obj\Debug\netcoreapp2.0\Atlant_Store.AssemblyInfo.cs
+C:\Users\CIO\Desktop\Atlant_Store\obj\Debug\netcoreapp2.0\Atlant_Store.dll
+C:\Users\CIO\Desktop\Atlant_Store\obj\Debug\netcoreapp2.0\Atlant_Store.pdb
